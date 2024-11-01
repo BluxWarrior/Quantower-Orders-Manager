@@ -28,7 +28,7 @@ This project provides a comprehensive system for managing trading strategies usi
 ### Installation
 Clone the repository and open the project in your preferred C# IDE:
 ```bash
-git clone https://github.com/Nico88-Vs/Quantower-Orders-Manager.git
+git clone https://github.com/BluxWarrior/Quantower-Orders-Manager.git
 ```
 
 ## Usage
@@ -88,11 +88,3 @@ public class CustomStrategy : ConditionableBase<Indicator>
 }
 
 ```
-
-## Support
-If you encounter any issues or have any questions, please feel free to open an issue or contact us through the project's support channels.
-
-## License
-This project is licensed under the apache License - see the [LICENSE.md](LICENSE.md) file for details.
-```
-
